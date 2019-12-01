@@ -1,7 +1,7 @@
 ---
 layout: frontpage
-title: Student Name
-description: Benjamin Harvey is an Adjunct Professor at The George Washington University. He teaches a Data Analytis Introduction and Practicum course.
+title: Quanran Jiang
+description: Quanran Jiang is a student at The George Washington University.
 keywords: statistics, data analytics
 ---
 
