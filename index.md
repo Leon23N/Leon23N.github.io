@@ -35,7 +35,7 @@ keywords: statistics, data analytics
 <tr>
   <td class="left">
     <a href="pages/publpics/samplemixups_fig7.html">
-        <img src="assets/publpics/plot_mlp_alp.png" alt="Broman et al. (2013) Fig 7" title="Broman et al. (2013) Fig 7"/>
+        <img src="assets/publpics/plot_mlp_alpha.png" alt="Broman et al. (2013) Fig 7" title="Broman et al. (2013) Fig 7"/>
     </a>
   </td>
   <td class="right">
