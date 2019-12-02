@@ -18,7 +18,7 @@ heatmap from 3:00pm to 4:00pm, Nov.1st, 2018
 [![pdf](../icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/rqtlcharts.pdf)
 [![GitHub](../icons16/github-icon.png)](https://github.com/kbroman/Paper_Rqtlcharts)
 
-[![R/qtlcharts example](../../assets/bigpublpics/daytime_cn.png)](http://kbroman.org/qtlcharts/example/iplotCorr.html)
+[![R/qtlcharts example](../../assets/bigpublpics/daytime_cn.png)](https://fortress.maptive.com/ver4/new_ui/index.php?&map_id=593254&snapshot_id=338401)
 
 Red area shows intensive usage of server.
 matrix; click a pixel and the corresponding scatterplot is shown on
