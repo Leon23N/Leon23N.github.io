@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: R/qtlcharts example
+title: Daytime Heatmap
 ---
 
 <div class="navbar">
@@ -20,7 +20,6 @@ heatmap from 3:00pm to 4:00pm, Nov.1st, 2018
 
 [![R/qtlcharts example](../../assets/bigpublpics/daytime_cn.png)](http://kbroman.org/qtlcharts/example/iplotCorr.html)
 
-Static view of an [interactive graph](http://kbroman.org/qtlcharts/example/iplotCorr.html)
-from [R/qtlcharts](http://kbroman.org/qtlcharts). The left panel is a heatmap of a correlation
+Red area shows intensive usage of server.
 matrix; click a pixel and the corresponding scatterplot is shown on
 the right.
